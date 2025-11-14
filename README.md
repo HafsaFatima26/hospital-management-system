@@ -162,10 +162,6 @@ This project is submitted as coursework for educational purposes.
 - CIA Triad security framework
 - Streamlit, Cryptography, bcrypt, pandas libraries
 
-## Contact
-
-For questions or issues, contact: [your.email@university.edu]
-
 ---
 
 **Security Notice**: This is a demonstration project. For production use, implement additional security measures including SSL/TLS, database encryption at rest, and professional key management.
