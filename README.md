@@ -137,7 +137,6 @@ Run the application and test all roles:
 
 - **Report**: Hospital_Management_System_Report.pdf (10 pages)
 - **Implementation Guide**: Complete setup instructions
-- **Requirements Matrix**: All 32 requirements verified
 
 ## Contributing
 
@@ -145,12 +144,11 @@ This is an academic project for CS-3002 Information Security course.
 
 ## Authors
 
-- [Your Name] - Student ID
-- [Partner Name] - Student ID
+- Hafsa Fatima
+- Hafsa Nauman
 
-**Institution**: [Your University Name]  
+**Institution**: Fast University
 **Course**: Information Security (CS-3002)  
-**Instructor**: [Instructor Name]  
 **Date**: November 14, 2025
 
 ## License
